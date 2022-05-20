@@ -1,14 +1,903 @@
 {
-  "students": [
-    {
-      "id": 1,
-      "name": "Auwal",
-      "age": 21
-    },
-    {
-      "id": 2,
-      "name": "Sani",
-      "age": 22
-    }
-  ]
+	"students": [{
+			"firstname": "Ned",
+			"lastname": "Wells",
+			"gender": "Male",
+			"age": 25,
+			"email": "n.wells@randatmail.com",
+			"phone": "357-6996-68",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Edith",
+			"lastname": "Morrison",
+			"gender": "Female",
+			"age": 18,
+			"email": "e.morrison@randatmail.com",
+			"phone": "076-5919-05",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Adrian",
+			"lastname": "Watson",
+			"gender": "Male",
+			"age": 24,
+			"email": "a.watson@randatmail.com",
+			"phone": "257-7519-67",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Amelia",
+			"lastname": "Alexander",
+			"gender": "Female",
+			"age": 27,
+			"email": "a.alexander@randatmail.com",
+			"phone": "638-5094-97",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Amelia",
+			"lastname": "Cooper",
+			"gender": "Female",
+			"age": 30,
+			"email": "a.cooper@randatmail.com",
+			"phone": "487-9657-02",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Julian",
+			"lastname": "Ferguson",
+			"gender": "Male",
+			"age": 28,
+			"email": "j.ferguson@randatmail.com",
+			"phone": "204-7772-80",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Samantha",
+			"lastname": "Hawkins",
+			"gender": "Female",
+			"age": 18,
+			"email": "s.hawkins@randatmail.com",
+			"phone": "117-0558-99",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Kimberly",
+			"lastname": "Adams",
+			"gender": "Female",
+			"age": 25,
+			"email": "k.adams@randatmail.com",
+			"phone": "104-4632-57",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Roman",
+			"lastname": "Anderson",
+			"gender": "Male",
+			"age": 24,
+			"email": "r.anderson@randatmail.com",
+			"phone": "916-0397-36",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Jenna",
+			"lastname": "Cunningham",
+			"gender": "Female",
+			"age": 21,
+			"email": "j.cunningham@randatmail.com",
+			"phone": "456-8842-13",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Agata",
+			"lastname": "Wilson",
+			"gender": "Female",
+			"age": 26,
+			"email": "a.wilson@randatmail.com",
+			"phone": "805-2673-07",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Maya",
+			"lastname": "Tucker",
+			"gender": "Female",
+			"age": 30,
+			"email": "m.tucker@randatmail.com",
+			"phone": "628-9768-69",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Savana",
+			"lastname": "Cooper",
+			"gender": "Female",
+			"age": 24,
+			"email": "s.cooper@randatmail.com",
+			"phone": "060-0529-13",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Rafael",
+			"lastname": "Crawford",
+			"gender": "Male",
+			"age": 27,
+			"email": "r.crawford@randatmail.com",
+			"phone": "048-9238-18",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Spike",
+			"lastname": "Reed",
+			"gender": "Male",
+			"age": 30,
+			"email": "s.reed@randatmail.com",
+			"phone": "388-1602-57",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Arnold",
+			"lastname": "Foster",
+			"gender": "Male",
+			"age": 19,
+			"email": "a.foster@randatmail.com",
+			"phone": "382-3986-02",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Jenna",
+			"lastname": "Scott",
+			"gender": "Female",
+			"age": 20,
+			"email": "j.scott@randatmail.com",
+			"phone": "065-3072-42",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Maddie",
+			"lastname": "Robinson",
+			"gender": "Female",
+			"age": 24,
+			"email": "m.robinson@randatmail.com",
+			"phone": "561-3914-52",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Grace",
+			"lastname": "Hawkins",
+			"gender": "Female",
+			"age": 20,
+			"email": "g.hawkins@randatmail.com",
+			"phone": "965-8392-54",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Madaline",
+			"lastname": "Phillips",
+			"gender": "Female",
+			"age": 21,
+			"email": "m.phillips@randatmail.com",
+			"phone": "851-7806-74",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Alberta",
+			"lastname": "Ross",
+			"gender": "Female",
+			"age": 23,
+			"email": "a.ross@randatmail.com",
+			"phone": "482-0408-59",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Elian",
+			"lastname": "Edwards",
+			"gender": "Male",
+			"age": 21,
+			"email": "e.edwards@randatmail.com",
+			"phone": "811-1521-35",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Nicole",
+			"lastname": "Spencer",
+			"gender": "Female",
+			"age": 20,
+			"email": "n.spencer@randatmail.com",
+			"phone": "246-2158-34",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Edgar",
+			"lastname": "Gibson",
+			"gender": "Male",
+			"age": 23,
+			"email": "e.gibson@randatmail.com",
+			"phone": "902-4155-04",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Reid",
+			"lastname": "Gibson",
+			"gender": "Male",
+			"age": 20,
+			"email": "r.gibson@randatmail.com",
+			"phone": "372-8161-56",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Kelvin",
+			"lastname": "Mitchell",
+			"gender": "Male",
+			"age": 19,
+			"email": "k.mitchell@randatmail.com",
+			"phone": "936-3324-40",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Andrew",
+			"lastname": "West",
+			"gender": "Male",
+			"age": 23,
+			"email": "a.west@randatmail.com",
+			"phone": "557-6000-49",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "James",
+			"lastname": "Turner",
+			"gender": "Male",
+			"age": 27,
+			"email": "j.turner@randatmail.com",
+			"phone": "399-4036-26",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Audrey",
+			"lastname": "Brooks",
+			"gender": "Female",
+			"age": 28,
+			"email": "a.brooks@randatmail.com",
+			"phone": "325-3625-90",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Charlie",
+			"lastname": "Brooks",
+			"gender": "Male",
+			"age": 22,
+			"email": "c.brooks@randatmail.com",
+			"phone": "670-7982-64",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Sam",
+			"lastname": "Roberts",
+			"gender": "Male",
+			"age": 28,
+			"email": "s.roberts@randatmail.com",
+			"phone": "758-6656-74",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Melanie",
+			"lastname": "Elliott",
+			"gender": "Female",
+			"age": 26,
+			"email": "m.elliott@randatmail.com",
+			"phone": "234-1921-71",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "John",
+			"lastname": "Bennett",
+			"gender": "Male",
+			"age": 21,
+			"email": "j.bennett@randatmail.com",
+			"phone": "806-2047-62",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Brooke",
+			"lastname": "Farrell",
+			"gender": "Female",
+			"age": 19,
+			"email": "b.farrell@randatmail.com",
+			"phone": "521-9129-52",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Victor",
+			"lastname": "Fowler",
+			"gender": "Male",
+			"age": 28,
+			"email": "v.fowler@randatmail.com",
+			"phone": "483-0464-11",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Sabrina",
+			"lastname": "Hill",
+			"gender": "Female",
+			"age": 26,
+			"email": "s.hill@randatmail.com",
+			"phone": "537-0776-78",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Tara",
+			"lastname": "Foster",
+			"gender": "Female",
+			"age": 30,
+			"email": "t.foster@randatmail.com",
+			"phone": "881-1610-30",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Alford",
+			"lastname": "Taylor",
+			"gender": "Male",
+			"age": 20,
+			"email": "a.taylor@randatmail.com",
+			"phone": "957-6131-40",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Sofia",
+			"lastname": "Mason",
+			"gender": "Female",
+			"age": 22,
+			"email": "s.mason@randatmail.com",
+			"phone": "227-1115-53",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Chloe",
+			"lastname": "Martin",
+			"gender": "Female",
+			"age": 29,
+			"email": "c.martin@randatmail.com",
+			"phone": "999-1272-45",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Frederick",
+			"lastname": "Hall",
+			"gender": "Male",
+			"age": 23,
+			"email": "f.hall@randatmail.com",
+			"phone": "384-9238-75",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Walter",
+			"lastname": "Nelson",
+			"gender": "Male",
+			"age": 28,
+			"email": "w.nelson@randatmail.com",
+			"phone": "116-4241-93",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Daryl",
+			"lastname": "Stevens",
+			"gender": "Male",
+			"age": 27,
+			"email": "d.stevens@randatmail.com",
+			"phone": "489-2582-43",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Brad",
+			"lastname": "Sullivan",
+			"gender": "Male",
+			"age": 21,
+			"email": "b.sullivan@randatmail.com",
+			"phone": "551-8566-37",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Sophia",
+			"lastname": "Hamilton",
+			"gender": "Female",
+			"age": 19,
+			"email": "s.hamilton@randatmail.com",
+			"phone": "374-2025-40",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Edgar",
+			"lastname": "Riley",
+			"gender": "Male",
+			"age": 30,
+			"email": "e.riley@randatmail.com",
+			"phone": "795-9941-37",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Tiana",
+			"lastname": "Stewart",
+			"gender": "Female",
+			"age": 24,
+			"email": "t.stewart@randatmail.com",
+			"phone": "420-0416-55",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Sabrina",
+			"lastname": "Cooper",
+			"gender": "Female",
+			"age": 30,
+			"email": "s.cooper@randatmail.com",
+			"phone": "340-7950-91",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Cherry",
+			"lastname": "Taylor",
+			"gender": "Female",
+			"age": 22,
+			"email": "c.taylor@randatmail.com",
+			"phone": "882-8428-19",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "John",
+			"lastname": "Douglas",
+			"gender": "Male",
+			"age": 21,
+			"email": "j.douglas@randatmail.com",
+			"phone": "402-7838-14",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Michelle",
+			"lastname": "Morrison",
+			"gender": "Female",
+			"age": 24,
+			"email": "m.morrison@randatmail.com",
+			"phone": "471-6701-33",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Elise",
+			"lastname": "Holmes",
+			"gender": "Female",
+			"age": 26,
+			"email": "e.holmes@randatmail.com",
+			"phone": "241-7965-46",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Myra",
+			"lastname": "Warren",
+			"gender": "Female",
+			"age": 21,
+			"email": "m.warren@randatmail.com",
+			"phone": "919-5362-69",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Samantha",
+			"lastname": "Roberts",
+			"gender": "Female",
+			"age": 30,
+			"email": "s.roberts@randatmail.com",
+			"phone": "563-9243-53",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Spike",
+			"lastname": "Stevens",
+			"gender": "Male",
+			"age": 18,
+			"email": "s.stevens@randatmail.com",
+			"phone": "995-1765-96",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Sarah",
+			"lastname": "Wells",
+			"gender": "Female",
+			"age": 28,
+			"email": "s.wells@randatmail.com",
+			"phone": "467-4497-57",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Kellan",
+			"lastname": "Chapman",
+			"gender": "Male",
+			"age": 30,
+			"email": "k.chapman@randatmail.com",
+			"phone": "416-0932-79",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Lily",
+			"lastname": "Fowler",
+			"gender": "Female",
+			"age": 25,
+			"email": "l.fowler@randatmail.com",
+			"phone": "435-7472-59",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Sydney",
+			"lastname": "Barnes",
+			"gender": "Female",
+			"age": 30,
+			"email": "s.barnes@randatmail.com",
+			"phone": "114-8209-85",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Julia",
+			"lastname": "Scott",
+			"gender": "Female",
+			"age": 23,
+			"email": "j.scott@randatmail.com",
+			"phone": "779-6471-89",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Derek",
+			"lastname": "Anderson",
+			"gender": "Male",
+			"age": 28,
+			"email": "d.anderson@randatmail.com",
+			"phone": "306-4929-19",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Rosie",
+			"lastname": "Evans",
+			"gender": "Female",
+			"age": 28,
+			"email": "r.evans@randatmail.com",
+			"phone": "205-0196-89",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Marcus",
+			"lastname": "Henderson",
+			"gender": "Male",
+			"age": 22,
+			"email": "m.henderson@randatmail.com",
+			"phone": "390-1595-66",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Maddie",
+			"lastname": "Alexander",
+			"gender": "Female",
+			"age": 20,
+			"email": "m.alexander@randatmail.com",
+			"phone": "195-2411-14",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Walter",
+			"lastname": "Ross",
+			"gender": "Male",
+			"age": 28,
+			"email": "w.ross@randatmail.com",
+			"phone": "587-8768-22",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Elian",
+			"lastname": "Montgomery",
+			"gender": "Male",
+			"age": 29,
+			"email": "e.montgomery@randatmail.com",
+			"phone": "613-8126-00",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Lydia",
+			"lastname": "Sullivan",
+			"gender": "Female",
+			"age": 26,
+			"email": "l.sullivan@randatmail.com",
+			"phone": "944-6644-09",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Fiona",
+			"lastname": "Carroll",
+			"gender": "Female",
+			"age": 30,
+			"email": "f.carroll@randatmail.com",
+			"phone": "861-5412-37",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Lucy",
+			"lastname": "Riley",
+			"gender": "Female",
+			"age": 30,
+			"email": "l.riley@randatmail.com",
+			"phone": "177-0461-59",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Jasmine",
+			"lastname": "Wilson",
+			"gender": "Female",
+			"age": 29,
+			"email": "j.wilson@randatmail.com",
+			"phone": "542-6733-41",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Charlie",
+			"lastname": "Taylor",
+			"gender": "Male",
+			"age": 28,
+			"email": "c.taylor@randatmail.com",
+			"phone": "778-8794-39",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Stella",
+			"lastname": "Carter",
+			"gender": "Female",
+			"age": 27,
+			"email": "s.carter@randatmail.com",
+			"phone": "711-1064-61",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Stella",
+			"lastname": "Dixon",
+			"gender": "Female",
+			"age": 29,
+			"email": "s.dixon@randatmail.com",
+			"phone": "634-4920-37",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Maximilian",
+			"lastname": "Hunt",
+			"gender": "Male",
+			"age": 20,
+			"email": "m.hunt@randatmail.com",
+			"phone": "697-4012-61",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Kate",
+			"lastname": "Edwards",
+			"gender": "Female",
+			"age": 22,
+			"email": "k.edwards@randatmail.com",
+			"phone": "805-7716-76",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Madaline",
+			"lastname": "Brooks",
+			"gender": "Female",
+			"age": 22,
+			"email": "m.brooks@randatmail.com",
+			"phone": "735-0063-34",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Julian",
+			"lastname": "Turner",
+			"gender": "Male",
+			"age": 23,
+			"email": "j.turner@randatmail.com",
+			"phone": "939-9726-21",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "John",
+			"lastname": "Clark",
+			"gender": "Male",
+			"age": 30,
+			"email": "j.clark@randatmail.com",
+			"phone": "911-4046-79",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Freddie",
+			"lastname": "Richards",
+			"gender": "Male",
+			"age": 26,
+			"email": "f.richards@randatmail.com",
+			"phone": "685-5522-81",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Walter",
+			"lastname": "Jones",
+			"gender": "Male",
+			"age": 30,
+			"email": "w.jones@randatmail.com",
+			"phone": "978-4091-72",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Arnold",
+			"lastname": "Ryan",
+			"gender": "Male",
+			"age": 20,
+			"email": "a.ryan@randatmail.com",
+			"phone": "528-4838-48",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Stuart",
+			"lastname": "Murphy",
+			"gender": "Male",
+			"age": 19,
+			"email": "s.murphy@randatmail.com",
+			"phone": "320-2180-11",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Ellia",
+			"lastname": "Watson",
+			"gender": "Female",
+			"age": 20,
+			"email": "e.watson@randatmail.com",
+			"phone": "542-8762-16",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Nicholas",
+			"lastname": "Edwards",
+			"gender": "Male",
+			"age": 18,
+			"email": "n.edwards@randatmail.com",
+			"phone": "403-8469-78",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Edith",
+			"lastname": "Lloyd",
+			"gender": "Female",
+			"age": 30,
+			"email": "e.lloyd@randatmail.com",
+			"phone": "459-1180-17",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Carina",
+			"lastname": "Campbell",
+			"gender": "Female",
+			"age": 29,
+			"email": "c.campbell@randatmail.com",
+			"phone": "218-5918-48",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Rafael",
+			"lastname": "Martin",
+			"gender": "Male",
+			"age": 22,
+			"email": "r.martin@randatmail.com",
+			"phone": "365-5331-16",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Paige",
+			"lastname": "Perry",
+			"gender": "Female",
+			"age": 26,
+			"email": "p.perry@randatmail.com",
+			"phone": "946-0994-04",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Hailey",
+			"lastname": "Johnson",
+			"gender": "Female",
+			"age": 23,
+			"email": "h.johnson@randatmail.com",
+			"phone": "471-5423-36",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Fiona",
+			"lastname": "Barrett",
+			"gender": "Female",
+			"age": 24,
+			"email": "f.barrett@randatmail.com",
+			"phone": "850-5511-19",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Ted",
+			"lastname": "Johnston",
+			"gender": "Male",
+			"age": 22,
+			"email": "t.johnston@randatmail.com",
+			"phone": "431-5893-62",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Ted",
+			"lastname": "Harris",
+			"gender": "Male",
+			"age": 24,
+			"email": "t.harris@randatmail.com",
+			"phone": "288-5961-40",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Roland",
+			"lastname": "Chapman",
+			"gender": "Male",
+			"age": 21,
+			"email": "r.chapman@randatmail.com",
+			"phone": "468-9346-65",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Olivia",
+			"lastname": "Armstrong",
+			"gender": "Female",
+			"age": 30,
+			"email": "o.armstrong@randatmail.com",
+			"phone": "894-7593-53",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Nicholas",
+			"lastname": "Barnes",
+			"gender": "Male",
+			"age": 24,
+			"email": "n.barnes@randatmail.com",
+			"phone": "671-4834-44",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Lucy",
+			"lastname": "Cunningham",
+			"gender": "Female",
+			"age": 23,
+			"email": "l.cunningham@randatmail.com",
+			"phone": "965-2757-83",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Lily",
+			"lastname": "Warren",
+			"gender": "Female",
+			"age": 25,
+			"email": "l.warren@randatmail.com",
+			"phone": "675-6133-15",
+			"mstatus": "Single"
+		},
+		{
+			"firstname": "Owen",
+			"lastname": "Sullivan",
+			"gender": "Male",
+			"age": 30,
+			"email": "o.sullivan@randatmail.com",
+			"phone": "377-9221-04",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Ted",
+			"lastname": "Edwards",
+			"gender": "Male",
+			"age": 18,
+			"email": "t.edwards@randatmail.com",
+			"phone": "681-8506-23",
+			"mstatus": "Married"
+		},
+		{
+			"firstname": "Sawyer",
+			"lastname": "Tucker",
+			"gender": "Male",
+			"age": 27,
+			"email": "s.tucker@randatmail.com",
+			"phone": "218-1776-03",
+			"mstatus": "Married"
+		}
+	]
 }
